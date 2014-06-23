@@ -1,0 +1,2 @@
+# oauthinsails
+### a Sails application
